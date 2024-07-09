@@ -19,5 +19,7 @@ public class Main {
         double balance = scanner.nextDouble();
 
         System.out.println("Olá " + clientName + " , obrigado por criar uma conta em nosso banco," + " sua agência é " + agency + ",conta " + accountNumber +" e seu saldo " + balance + " já está " + "disponivel para saque.");
+
+        scanner.close();
     }
 }
