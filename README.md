@@ -5,7 +5,7 @@ Este repositório tem como objetivo armazenar os desafios feitos durante o bootc
 - Sintaxe
 - Estruturas condicionais
 - Estruturas de repetição
-- Estruturas excepcionais / tratamento de esceções
+- Estruturas excepcionais / tratamento de exceções
 
 
 ## 💻 Desafios
