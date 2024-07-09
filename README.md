@@ -1,7 +1,7 @@
 # JAVA BÁSICO :
 Este repositório tem como objetivo armazenar os desafios e exercícios feitos durante o bootcamp Santander DIO na trilha de Java.
 
-## ⭐ CONTEÚDOS ESTUDADOS
+## ⭐ CONTEÚDO ESTUDADO
 - Sintaxe
 - Estruturas condicionais
 - Estruturas de repetição
